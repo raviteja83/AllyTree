@@ -9,6 +9,7 @@
 - useFilter can be modified to search by text as well
 
 
-For running
-yarn install
-yarn start
+**For running**
+
+- yarn install
+- yarn start
