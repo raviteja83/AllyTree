@@ -1,2 +1,0 @@
-# AllyTree
-Created with CodeSandbox
